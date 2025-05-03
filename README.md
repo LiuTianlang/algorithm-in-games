@@ -36,7 +36,7 @@ Inspired by *Surviving Mars*, this module builds a cost-effective railway networ
 Each base is a node, and randomly generated edge weights simulate different terrain costs.  
 We use **Prim's algorithm** to find a **Minimum Spanning Tree (MST)** — the cheapest way to connect all bases without cycles.
 
-![Prim MST example](surviving-mars-railroads/images/mst_example.png)
+![Prim MST example](surviving-mars-railroads/example.png)
 
 ---
 
