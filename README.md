@@ -55,7 +55,7 @@ pip install networkx matplotlib
 
 ### 3. Run the module  
 ```bash
-python mars_mst.py
+surviving_mars-prim.py
 ```
 
 You will be prompted to enter the number of bases.  
